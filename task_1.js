@@ -109,4 +109,4 @@ c /= 11;
 //task 25
 const myStr = "I am a \"double quoted\" string inside \"double quotes\".";
 //task 26
-
+const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; 
