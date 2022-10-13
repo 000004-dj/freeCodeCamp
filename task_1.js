@@ -139,3 +139,5 @@ const myVerb = "ran";
 const myAdverb = "quickly";
 const wordBlanks = myAdjective + " " + myNoun + " " + myAdverb + " " + myVerb + "."; 
 //35 
+const myArray = ["jelly", 4];
+//36 
