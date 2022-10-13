@@ -119,3 +119,11 @@ myStr += 'This is the second sentence.';
 const myName = "Samuil";
 const myStr = "My name is " + myName + "I am well!";
 //30
+let lastNameLength = 0;
+const lastName = "Lovelace";
+lastNameLength = lastName.length;
+//31
+let firstLetterOfLastName = "";
+const lastName = "Lovelace";
+firstLetterOfLastName = lastName[0]; 
+//32
