@@ -127,3 +127,9 @@ let firstLetterOfLastName = "";
 const lastName = "Lovelace";
 firstLetterOfLastName = lastName[0]; 
 //32
+let myStr = "Jello World";
+myStr = "Hello World";
+//33
+const lastName = "Lovelace";
+const lastLetterOfLastName = lastName[lastName.length - 1]; 
+//34
