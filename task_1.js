@@ -110,3 +110,12 @@ c /= 11;
 const myStr = "I am a \"double quoted\" string inside \"double quotes\".";
 //task 26
 const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; 
+// 27 
+const myStr = "This is the start. " + "This is the end."; 
+//28
+let myStr = 'This is the first sentence. ';
+myStr += 'This is the second sentence.';
+//29
+const myName = "Samuil";
+const myStr = "My name is " + myName + "I am well!";
+//30
