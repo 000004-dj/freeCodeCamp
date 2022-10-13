@@ -143,3 +143,8 @@ const myArray = ["jelly", 4];
 //36 
 const myArray = [[1,2]];
 //37
+const myArray = [50, 60, 70];
+let myData = myArray[0];
+//38
+const myArray = [18, 64, 99];
+myArray[0] = 45;
