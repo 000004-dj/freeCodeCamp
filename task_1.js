@@ -156,3 +156,8 @@ function nextInLine(arr, item) {
   console.log("Before: " + JSON.stringify(testArr));
   console.log(nextInLine(testArr, 6));
   console.log("After: " + JSON.stringify(testArr));
+  //40
+  let processed = 0;
+function processArg(num) {
+  return (num + 3) / 5;
+}
