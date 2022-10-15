@@ -161,3 +161,14 @@ function nextInLine(arr, item) {
 function processArg(num) {
   return (num + 3) / 5;
 }
+//41
+// Setup
+function testNotEqual(val) {
+    if (val != 99) { // Change this line
+      return "Not Equal";
+    }
+    return "Equal";
+  }
+  
+  testNotEqual(10);
+  //41
